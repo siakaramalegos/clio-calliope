@@ -33,7 +33,7 @@ a {
 
 a:hover,
 a:focus {
-    color: #eb3812;
+    color: #00a3e7;
 }
 
 h1,
@@ -95,7 +95,7 @@ aside {
 
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-    color: #eb3812;
+    color: #00a3e7;
 }
 
 .navbar-default .nav > li>a,
@@ -159,7 +159,7 @@ aside {
 
     .navbar-default.affix .navbar-header .navbar-brand:hover,
     .navbar-default.affix .navbar-header .navbar-brand:focus {
-        color: #eb3812;
+        color: #00a3e7;
     }
 
     .navbar-default.affix .nav > li>a,
@@ -244,6 +244,11 @@ header .header-content .header-content-inner p {
 
 .section-heading {
     margin-top: 0;
+}
+
+.clio {
+    font-family: 'Mr Dafoe', cursive;
+    font-size: 2.5em;
 }
 
 .service-box {

@@ -249,6 +249,11 @@ header .header-content .header-content-inner p {
 .clio {
     font-family: 'Mr Dafoe', cursive;
     font-size: 2.5em;
+    transform:rotate(355deg);
+}
+
+h2.clio {
+    font-size: 3.5em;
 }
 
 .service-box {

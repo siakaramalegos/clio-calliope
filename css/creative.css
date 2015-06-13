@@ -43,6 +43,8 @@ h4,
 h5,
 h6 {
     font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
 }
 
 p {
@@ -250,6 +252,8 @@ header .header-content .header-content-inner p {
     font-family: 'Mr Dafoe', cursive;
     font-size: 2.5em;
     transform:rotate(355deg);
+    text-transform: none;
+    font-weight: 400;
 }
 
 h2.clio {
@@ -329,6 +333,28 @@ h2.clio {
     .portfolio-box .portfolio-box-caption .portfolio-box-caption-content .project-name {
         font-size: 22px;
     }
+}
+
+.process-icon {
+    border: 3px solid #00B4FF;
+    border-radius: 100%;
+    height: 75px;
+    width: 75px;
+    text-align: center;
+    line-height: 70px;
+    color: #00B4FF;
+    font-size: 30px;
+}
+
+.process-content {
+    padding: 0 15px 20px 0;
+    line-height: 2;
+}
+
+.process-content h3 {
+    margin-top: 0;
+    text-transform: uppercase;
+    font-weight: 700;
 }
 
 .call-to-action h2 {

@@ -213,6 +213,10 @@ header .header-content .header-content-inner p {
     margin-bottom: 50px;
     font-size: 16px;
     font-weight: 300;
+    /*color: rgba(255,255,255,.7);*/
+}
+
+header .header-content .header-content-inner h1 {
     color: rgba(255,255,255,.7);
 }
 
@@ -254,14 +258,14 @@ header .header-content .header-content-inner p {
 
 .clio {
     font-family: 'Mr Dafoe', cursive;
-    font-size: 2.5em;
+    font-size: 4.5em;
     transform:rotate(355deg);
     text-transform: none;
     font-weight: 400;
 }
 
-h2.clio {
-    font-size: 3.5em;
+div.header-content-inner h2.clio {
+    font-size: 7.5em;
 }
 
 .service-box {

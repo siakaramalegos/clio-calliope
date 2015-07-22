@@ -546,17 +546,8 @@ body {
     webkit-tap-highlight-color: #222;
 }
 
-footer.footer {
-  color: rgba(255, 255, 255, 0.7);
-  background-color: #00B4FF;
+.footer, .footer p {
+  color: rgba(255, 255, 255, 0.4);
   padding: 20px 0 20px;
-}
-footer.footer a {
-  color: rgba(255, 255, 255, 0.7);
-}
-footer.footer a:hover {
-  color: white;
-}
-footer.footer p {
   font-size: 14px;
 }
